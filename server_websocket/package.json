@@ -1,0 +1,14 @@
+{
+    "name": "test-app",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "echarts": "^4.9.0",
+        "formidable": "^1.2.1",
+        "upper-case": "^2.0.1",
+        "websocket": "^1.0.34"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+}

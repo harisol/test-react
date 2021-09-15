@@ -1,12 +1,28 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo contains
+Client: Simple React App that is bootstrapped with create-react-app template (https://github.com/facebook/create-react-app)
+Server: Simple node js apps without framework that contains websocket
+
+# Install
+
+To install Client, in root directory run:
+
+### `npm install`
+
+To install Server, go to server_websocket directory, then run:
+
+### `npm install`
 
 ## Available Scripts
 
-In the project directory, you can run:
+Running client. In the root directory, run:
 
 ### `npm start`
+
+Running Server. Use separate terminal window, go to server_websocket directory, then run:
+
+### `node apps`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
