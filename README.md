@@ -1,7 +1,7 @@
 # Overview
 
 This repo contains
-Client: Simple React App that is bootstrapped with create-react-app template (https://github.com/facebook/create-react-app)\
+Client: Simple React App that is bootstrapped with create-react-app template (https://github.com/facebook/create-react-app).\
 Server: Simple node js apps without framework that contains websocket
 
 # Install
